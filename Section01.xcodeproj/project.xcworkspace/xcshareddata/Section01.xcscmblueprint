@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6EC0B34D0CEE7A979BEDB00F8AD8E2D78516FF3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6EC0B34D0CEE7A979BEDB00F8AD8E2D78516FF3D" : 9223372036854775807,
+    "DA0854D91B718E228BEAAA343EF203E56F9A3C2B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "085A9373-6507-4010-9851-BCD006DC611C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6EC0B34D0CEE7A979BEDB00F8AD8E2D78516FF3D" : "BullCowGame\/",
+    "DA0854D91B718E228BEAAA343EF203E56F9A3C2B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Section01",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Section01.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tdarwish7\/console_practice_cows_n_bulls.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EC0B34D0CEE7A979BEDB00F8AD8E2D78516FF3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tdarwish7\/console_practice_cows_n_bulls.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA0854D91B718E228BEAAA343EF203E56F9A3C2B"
+    }
+  ]
+}
